@@ -49,12 +49,6 @@ This project is perfect for retail/e-commerce teams looking to:
 
 ---
 
-## 📎 Report Highlights
-
-Check out the detailed comparison and business strategies in the [📄 Project Report](link-if-uploaded-or-local).
-
----
-
 ## 📌 Tools & Technologies
 
 - Python (Jupyter Notebook)
